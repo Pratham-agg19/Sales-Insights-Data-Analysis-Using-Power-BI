@@ -16,7 +16,7 @@ This project showcases a data-driven approach to analyzing sales performance usi
 
 2. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it into mysql workbench.
 
-### Data Analysis Using SQL
+### 📂  Data Analysis Using SQL
 ===========================
 
 1. Show all customer records
@@ -57,7 +57,7 @@ This project showcases a data-driven approach to analyzing sales performance usi
 and transactions.market_code="Mark001";`
 
 
-##Data Analysis Using Power BI
+ 📊 Data Analysis Using Power BI
 ==============================
 
 1. Formula to create norm_amount column
